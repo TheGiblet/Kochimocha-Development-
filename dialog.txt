@@ -1,0 +1,83 @@
+hi,greeting
+hello,greeting
+hey there,greeting
+good morning,greeting
+good evening,greeting
+howdy,greeting
+greetings,greeting
+yo,greeting
+sup,greeting
+hey man,greeting
+how are you,question
+how's it going,question
+what's happening,question
+what's new,question
+what's up,question
+what are you up to,question
+how are you doing today,question
+I'm doing well,statement
+I'm fine,statement
+I'm great,statement
+I'm okay,statement
+not much,statement
+nothing much,statement
+I'm happy,feeling
+I'm sad,feeling
+I'm excited,feeling
+I'm tired,feeling
+I'm bored,feeling
+I'm angry,feeling
+I'm frustrated,feeling
+I'm feeling good,feeling
+I'm feeling bad,feeling
+that's cool,acknowledgement
+that's interesting,acknowledgement
+I see,acknowledgement
+okay,acknowledgement
+that's awesome,acknowledgement
+that's great,acknowledgement
+I understand,acknowledgement
+tell me a joke,request_joke
+what's the weather like,weather
+what's the weather in London,weather_location
+what time is it,time
+what's the date,date
+what's your name,question
+who are you,question
+how old are you,question
+where are you from,question
+what do you like to do,question
+do you have any hobbies,question
+what's your favorite color,question
+what's your favorite food,question
+what's your favorite animal,question
+that's funny,acknowledgement
+that's amazing,acknowledgement
+I don't know,statement
+I'm not sure,statement
+maybe,statement
+perhaps,statement
+I agree,statement
+I disagree,statement
+tell me a story,request_story
+sing me a song,request_song
+draw me a picture,request_picture
+play a game with me,request_game
+can you help me with something,request_help
+what can you do,question
+what are you good at,question
+I need some advice,request_advice
+I'm feeling sick,feeling
+I'm feeling happy about my new job,feeling_positive
+I'm feeling sad because my dog died,feeling_negative
+I'm really angry right now,feeling_negative
+I'm super excited about my vacation,feeling_positive
+that's terrible,acknowledgement_negative
+that's wonderful,acknowledgement_positive
+I'm sorry to hear that,acknowledgement_negative
+I'm happy for you,acknowledgement_positive
+what do you think about AI,question_opinion
+do you believe in God,question_opinion
+what's your favorite movie,question_favorite
+what kind of music do you like,question_favorite
+what's your favorite book,question_favorite
